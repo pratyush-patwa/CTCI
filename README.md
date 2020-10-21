@@ -1,7 +1,7 @@
 # CTCI
 Cracking The Coding Interview Questions 
 
-  #Chapters
+  # Chapters
   
     Chapter 1 - Arrays & Strings
     Chapter 2 - LinkedList
