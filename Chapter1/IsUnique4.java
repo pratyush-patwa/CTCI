@@ -19,7 +19,7 @@ public class IsUnique4 {
     		if ((checker & (1<< index))>0)
     			return false;
     		
-    		checker  |= (1<<index);
+    		checker |= (1<<index);
     	}
     	return true;
     }
